@@ -3,9 +3,7 @@
 @pilkkibotti *ohje*
 ```
 Tulostaa linkin näihin ohjeisin, d'oh
-
-
-
+======
 ```
 @pilkkibotti paljon pilkkiin (sekä muita vastaavia)
 @pilkkibotti pilkki

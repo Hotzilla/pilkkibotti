@@ -10,6 +10,17 @@ Tulostaa linkin näihin ohjeisin, d'oh
 ```
 Jos mikään vaihtoehto ei osu, mutta botti mainitaan -> haetaan "älykäs" vastaus syötettyyn tekstiin.
 
+---
+```
+pilkkitiedot
+```
+Kertoo perustiedot pilkistä.
+
+---
+```
+@pilkkibotti tilastoja
+```
+Kertoo tilastoja
 
 ---
 ```

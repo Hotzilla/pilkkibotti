@@ -55,16 +55,19 @@ Botti puhuu annetun tekstin
 
 ---
 ```
-@pilkkibotti aseta ääni:pitch;rate
+@pilkkibotti aseta ääni: pitch;rate
 ```
 Asettaa botin äänen nopeuden ja korkeuden. arvoväli -100 to 100
 
-esimerkiksi @pilkkibotti aseta ääni:-20;30
+esimerkiksi @pilkkibotti aseta ääni: -20;30
 
 ---
 ```
-@pilkkibotti aseta ääni:pitch;rate
+@pilkkibotti aseta ääni: kieli
 ```
-Asettaa botin äänen nopeuden ja korkeuden. arvoväli -100 to 100
+Asettaa botin kielen
 
-esimerkiksi @pilkkibotti aseta ääni:-20;30
+vaihtoehdot:
+* en-US-AriaNeural
+
+esimerkiksi @pilkkibotti aseta kieli: fi-FI-NooraNeural

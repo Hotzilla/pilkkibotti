@@ -42,6 +42,7 @@ Kertoo onko botti hengissä
 ```
 Vastaa hehe
 
+# Reddit
 ---
 ```
 @pilkkibotti *{0}*kuva*
@@ -51,6 +52,7 @@ Yrittää kaivaa redditistä satunnaisen kuvan vastaavasta subredististä (e.g. 
 
 Käyttää Reddit REST apia.
 
+# sää
 ---
 ```
 @pilkkibotti *sää*
@@ -58,6 +60,7 @@ Käyttää Reddit REST apia.
 ```
 Hakee openweather apista REST kyselyllä tämän hetkisen säätilan
 
+# Puhe
 ---
 ```
 @pilkkibotti sano:*
@@ -94,7 +97,7 @@ vaihtoehdot mm:
 * it-IT-ElsaNeural (italia)
 * sv-SE-HilleviNeural (svedu)
 
-
+# Spotify
 ---
 ```
 @pilkkibotti soita: {hakusana}

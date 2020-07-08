@@ -27,16 +27,16 @@ Vastaa hehe
 ---
 ```
 @pilkkibotti *{0}*kuva*
-
 @pilkkibotti *{0}*video*
 ```
-Yrittää kaivaa redditistä satunnaisen kuvan vastaavasta subredististä (e.g. tissit = boobs). Käyttää Reddit apia.
+Yrittää kaivaa redditistä satunnaisen kuvan vastaavasta subredististä (e.g. tissit = boobs).
+
+Käyttää Reddit REST apia.
 
 ---
 ```
->#**@pilkkibotti \*sää\***
-
->#**@pilkkibotti \*keli\***
+@pilkkibotti *sää*
+@pilkkibotti *keli*
 ```
 Hakee openweather apista REST kyselyllä tämän hetkisen säätilan
 

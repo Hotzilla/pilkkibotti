@@ -33,6 +33,7 @@ Kertoo kauanko pilkkiin on aikaa
 ---
 ```
 @pilkkibotti *pystyssä*
+@pilkkibotti *hengissä*
 ```
 Kertoo onko botti hengissä
 

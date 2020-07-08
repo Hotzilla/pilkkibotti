@@ -63,7 +63,7 @@ esimerkiksi @pilkkibotti aseta ääni: -20;30
 
 ---
 ```
-@pilkkibotti aseta ääni: kieli
+@pilkkibotti aseta kieli: fi-FI-NooraNeural
 ```
 Asettaa botin kielen
 
@@ -84,4 +84,27 @@ vaihtoehdot mm:
 * sv-SE-HilleviNeural (svedu)
 
 
-esimerkiksi @pilkkibotti aseta kieli: fi-FI-NooraNeural
+---
+```
+@pilkkibotti soita: {hakusana}
+```
+Hakee hakusanalla spotifystä ja aloittaa sen soittamisen
+
+---
+```
+@pilkkibotti spotifylinkki (spotify -> etsi biisi/artisti/soittolista/albumi -> jaa -> whatsapp -> pilkkiryhmä)
+```
+Soittaa annetun sisällön spotifystä
+
+---
+```
+@pilkkibotti kovempaa
+```
+nostaa volumea (TODO)
+
+
+---
+```
+@pilkkibotti hiljempaa
+```
+laskee volumea (TODO)

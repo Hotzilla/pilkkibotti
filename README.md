@@ -17,6 +17,19 @@ Kertoo onko botti hengissä
 
 
 #**@pilkkibotti haha**
+
 Vastaa hehe
+
+
+#**@pilkkibotti \*{0}\*kuva\***
+#**@pilkkibotti \*{0}\*video\***
+
+Yrittää kaivaa redditistä satunnaisen kuvan vastaavasta subredististä (e.g. tissit = boobs). Käyttää Reddit apia.
+
+
+#**@pilkkibotti \*sää\***
+#**@pilkkibotti \*keli\***
+
+Hakee openweather apista REST kyselyllä tämän hetkisen säätilan
 
 

@@ -52,7 +52,7 @@ Yrittää kaivaa redditistä satunnaisen kuvan vastaavasta subredististä (e.g. 
 
 Käyttää Reddit REST apia.
 
-# sää
+# Sää
 ---
 ```
 @pilkkibotti *sää*
@@ -122,3 +122,24 @@ nostaa volumea (TODO)
 @pilkkibotti hiljempaa
 ```
 laskee volumea (TODO)
+
+# Kaljalaskuri
+---
+```
+kalja emote
+```
++ 1 kalja, ja kertoo paljonko on alla
+
+---
+```
+@pilkkibotti *humala*
+@pilkkibotti *känni*
+```
+laskee paljonko on promilleja
+
+---
+```
+@pilkkibotti kaljatilastot
+```
+Kertoo kuka on koviten humalassa
+

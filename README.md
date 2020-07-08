@@ -6,6 +6,13 @@ Tulostaa linkin näihin ohjeisin, d'oh
 
 ---
 ```
+@pilkkibotti *
+```
+Jos mikään vaihtoehto ei osu, mutta botti mainitaan -> haetaan "älykäs" vastaus syötettyyn tekstiin.
+
+
+---
+```
 @pilkkibotti paljon pilkkiin (sekä muita vastaavia)
 @pilkkibotti pilkki
 @pilkkibotti ???

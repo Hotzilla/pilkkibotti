@@ -1,15 +1,14 @@
 ## pilkkibotti
->#**@pilkkibotti \*ohje\***
-
+```
+@pilkkibotti *ohje*
+```
 Tulostaa linkin näihin ohjeisin, d'oh
 
-
->#**@pilkkibotti paljon pilkkiin (sekä muita vastaavia)**
-
->#**@pilkkibotti pilkki**
-
->#**@pilkkibotti ???**
-
+```
+@pilkkibotti paljon pilkkiin (sekä muita vastaavia)
+@pilkkibotti pilkki
+@pilkkibotti ???
+```
 Kertoo kauanko pilkkiin on aikaa
 
 

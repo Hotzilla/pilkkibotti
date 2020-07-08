@@ -123,7 +123,7 @@ nostaa volumea (TODO)
 ```
 laskee volumea (TODO)
 
-# Kaljalaskuri
+# Kaljalaskuri (TODO)
 ---
 ```
 kalja emote

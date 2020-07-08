@@ -5,7 +5,9 @@ Tulostaa linkin näihin ohjeisin, d'oh
 
 
 #**@pilkkibotti paljon pilkkiin (sekä muita vastaavia)**
+
 #**@pilkkibotti pilkki**
+
 #**@pilkkibotti ???**
 
 Kertoo kauanko pilkkiin on aikaa
@@ -22,12 +24,14 @@ Vastaa hehe
 
 
 #**@pilkkibotti \*{0}\*kuva\***
+
 #**@pilkkibotti \*{0}\*video\***
 
 Yrittää kaivaa redditistä satunnaisen kuvan vastaavasta subredististä (e.g. tissit = boobs). Käyttää Reddit apia.
 
 
 #**@pilkkibotti \*sää\***
+
 #**@pilkkibotti \*keli\***
 
 Hakee openweather apista REST kyselyllä tämän hetkisen säätilan

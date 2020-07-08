@@ -13,7 +13,7 @@ Jos mikään vaihtoehto ei osu, mutta botti mainitaan -> haetaan "älykäs" vast
 
 ---
 ```
-@pilkkibotti paljon pilkkiin (sekä muita vastaavia)
+@pilkkibotti paljon pilkkiin (sekä parikymmentä muuta vastaavaa)
 @pilkkibotti pilkki
 @pilkkibotti ???
 ```
@@ -47,4 +47,24 @@ Käyttää Reddit REST apia.
 ```
 Hakee openweather apista REST kyselyllä tämän hetkisen säätilan
 
+---
+```
+@pilkkibotti sano:*
+```
+Botti puhuu annetun tekstin
 
+---
+```
+@pilkkibotti aseta ääni:pitch;rate
+```
+Asettaa botin äänen nopeuden ja korkeuden. arvoväli -100 to 100
+
+esimerkiksi @pilkkibotti aseta ääni:-20;30
+
+---
+```
+@pilkkibotti aseta ääni:pitch;rate
+```
+Asettaa botin äänen nopeuden ja korkeuden. arvoväli -100 to 100
+
+esimerkiksi @pilkkibotti aseta ääni:-20;30

@@ -67,7 +67,21 @@ esimerkiksi @pilkkibotti aseta ääni: -20;30
 ```
 Asettaa botin kielen
 
-vaihtoehdot:
-* en-US-AriaNeural
+vaihtoehdot mm:
+* fi-FI-NooraNeural (vakio, suomi)
+* en-US-AriaNeural (jenkki)
+* en-US-GuyNeural (jenkki)
+* en-GB-LibbyNeural (britti)
+* en-GB-MiaNeural (britti)
+* en-IN-NeerjaNeural (intia)
+* ru-RU-DariyaNeural (venäjä)
+* de-DE-KatjaNeural (saksa)
+* zh-HK-HiuGaaiNeural (kiina)
+* ar-SA-ZariyahNeural (arabia)
+* fr-FR-DeniseNeural (patongin purija)
+* es-ES-ElviraNeural (espanja)
+* it-IT-ElsaNeural (italia)
+* sv-SE-HilleviNeural (svedu)
+
 
 esimerkiksi @pilkkibotti aseta kieli: fi-FI-NooraNeural

@@ -16,6 +16,7 @@ Kertoo kauanko pilkkiin on aikaa
 Kertoo onko botti hengissä
 
 
-#**@pilkkibotti pystyssä**
+#**@pilkkibotti haha**
+Vastaa hehe
 
-Kertoo onko botti hengissä
+
